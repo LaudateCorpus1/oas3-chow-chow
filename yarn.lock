@@ -1030,17 +1030,17 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
-better-ajv-errors@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-0.7.0.tgz#625a87e7e4e511a39478f5d79151749346add42d"
-  integrity sha512-6GtJQ/AwVSo1pI1MDQU/yg8O86gMsrt5RKtELo08Epa2zWJPCOK85v/O8/U5A9JkWmwRkE16JpSgssKSx6moog==
+better-ajv-errors@^0.8.0:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-0.8.2.tgz#9abf27e19d2cee60f400753510f7a3a96d655adf"
+  integrity sha512-FnODTBJSQSHmJXDLPiC7ca0dC4S1HSTPv1+Hg2sm/C71i3Dj0l1jcUEaq/3OQ6MmnUveshTsUvUj65pDSr3Qow==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
     chalk "^2.4.1"
     core-js "^3.2.1"
     json-to-ast "^2.0.3"
-    jsonpointer "^4.0.1"
+    jsonpointer "^5.0.0"
     leven "^3.1.0"
 
 better-path-resolve@1.0.0:
@@ -2980,10 +2980,10 @@ jsonfile@^4.0.0:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-jsonpointer@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-4.0.1.tgz#4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9"
-  integrity sha1-T9kss04OnbPInIYi7PUfm5eMbLk=
+jsonpointer@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-5.0.1.tgz#2110e0af0900fd37467b5907ecd13a7884a1b559"
+  integrity sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==
 
 jsprim@^1.2.2:
   version "1.4.1"
